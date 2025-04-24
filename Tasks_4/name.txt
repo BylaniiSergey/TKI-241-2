@@ -1,0 +1,6 @@
+1 2 Banana
+1 2 Elderberry
+2 6 Date
+3 4 Cherry
+3 5 Apple
+3 5 Fig
